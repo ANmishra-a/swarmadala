@@ -28,12 +28,14 @@ Welcome to Swarmandala, a digital platform for classical music enthusiasts. Our 
   
 </p>
 <imc src="https://github.com/coherencez/tech-logos/raw/master/react.png" height="100">
-
+- React.js
 - Node.js
 - Seculizer
 - Express.js
 - PostgreSQL 
-![React]()
+- Figma
+- jest
+
 
 
 ## Description
