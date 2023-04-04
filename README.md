@@ -53,7 +53,7 @@ We hope that our platform will serve as a valuable resource for music lovers and
 <!-- [![Alt Text](./swarmandala/public/Screenshot%202023-04-04%20105749.png)](./swarmandala/public/Recording%202023-04-04%20105621.mp4) -->
 
 ## Features
-
+- Listen to ragas of current prahar
 - Search for specific ragas
 - Browse through curated list of popular and lesser-known ragas
 - Learn about the history and cultural significance of Indian classical music
