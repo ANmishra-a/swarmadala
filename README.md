@@ -16,11 +16,25 @@ Welcome to Swarmandala, a digital platform for classical music enthusiasts. Our 
 
 ## Tech Stack
 
-- React
+<p align="center">
+  <img src="https://github.com/coherencez/tech-logos/raw/master/react.png" width="200" title="react">
+  <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="200" alt="Express.js">
+  <img src="https://github.com/coherencez/tech-logos/raw/master/nodejs.png" width="200" alt="Node.js">
+  <img src="https://github.com/coherencez/tech-logos/raw/master/css3.png" width="200" alt="CSS">
+  <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" width="200" alt="Figma">
+  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="200" alt="SQL">
+  <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="200" alt="SQL">
+  
+  
+</p>
+<imc src="https://github.com/coherencez/tech-logos/raw/master/react.png" height="100">
+
 - Node.js
 - Seculizer
 - Express.js
-- PostgreSQL
+- PostgreSQL 
+![React]()
+
 
 ## Description
 
